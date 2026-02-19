@@ -50,73 +50,44 @@
 // //     console.log("gorib");
 // // }
 
-// var mark =29;
-// if (mark >= 80) {
-//     console.log("A+");
-// } else if (mark >= 70) {
-//     console.log("B+");
 
-// }
-// else if (mark >= 60) {
-//     console.log("B");
-// } else if (mark >= 50) {
-//     console.log("C");
-// } else if (
-//     mark >= 40
-// ) {
-//     console.log("C+");
-// }
-// else if (mark >= 33) {
-//     console.log(D);
-// }
-// else {
-//     console.log("F");
-// };
-//  let a=23, b=32, c=17;
-//  if(a>b && a>c){
-//     console.log("Largest number is: a" )
-//  } else if(b>c && b>a){
-//     console.log("largest number is: b" )
-   
-//  }
- 
-//  else {
-//     console.log("largest number is c" );
-//  }
 
-let charecter="A"
-switch (charecter){
-    case "A":
-        console.log("Vowel");
-        break;
-    case "E":
-        console.log("Vowel");
-        break;
-    case "I":
-        console.log("Vowel");
-        break;
-    case "O":
-        console.log("Vowel");
-        break;
-    case "U":
-        console.log("Vowel")
-        break;
-    case "a":
-        console.log("Vowel");
-        break;
-    case "e":
-        console.log("Vowel");
-        break;
-    case "i":
-        console.log("Vowel");
-        break;
-    case "o":
-        console.log("Vowel");
-        break;
-    case "u":
-        console.log("Vowel")
-        break;
-    default:
-        console.log("Consonant");
-}
+
+
+
+// let charecter="A"
+// switch (charecter){
+//     case "A":
+//         console.log("Vowel");
+//         break;
+//     case "E":
+//         console.log("Vowel");
+//         break;
+//     case "I":
+//         console.log("Vowel");
+//         break;
+//     case "O":
+//         console.log("Vowel");
+//         break;
+//     case "U":
+//         console.log("Vowel")
+//         break;
+//     case "a":
+//         console.log("Vowel");
+//         break;
+//     case "e":
+//         console.log("Vowel");
+//         break;
+//     case "i":
+//         console.log("Vowel");
+//         break;
+//     case "o":
+//         console.log("Vowel");
+//         break;
+//     case "u":
+//         console.log("Vowel")
+//         break;
+//     default:
+//         console.log("Consonant");
+// }
 
