@@ -18,3 +18,6 @@ console.log(individual);
 
   location.pop();
   console.log(location)
+
+  var items=location.includes("mango");
+  console.log(items)
