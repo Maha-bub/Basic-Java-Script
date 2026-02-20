@@ -12,3 +12,9 @@ console.log(individual);
 
   location.push("aftabnagar");
   console.log(location);
+
+  location.push("Sitakundu","Cox's Bazar");
+  console.log(location);
+
+  location.pop();
+  console.log(location)
