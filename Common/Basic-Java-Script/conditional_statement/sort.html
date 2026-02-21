@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      let num1 = Number(prompt("Enter first number:"));
+      let num2 = Number(prompt("Enter second number:"));
+      let num3 = Number(prompt("Enter third number:"));
+
+      let numbers = [num1, num2, num3];
+
+      numbers.sort(function (a, b) {
+        return a - b;
+      });
+
+      document.write("Ascending order: " + numbers.join(", "));
+
+      let num4 = Number(prompt("Enter first number:"));
+      let num5 = Number(prompt("Enter second number:"));
+      let num6 = Number(prompt("Enter third number:"));
+
+      let numbers1 = [num4, num5, num6];
+
+      numbers.sort(function (a, b) {
+        return b - a;
+      });
+
+      document.write("Ascending order: " + numbers1.join(", "));
+    </script>
+  </body>
+</html>
