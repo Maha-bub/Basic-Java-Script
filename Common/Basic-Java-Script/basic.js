@@ -1,8 +1,6 @@
 // var name="mahabub";
 // console.log(name);
 
-const { num } = require("./loop/loop")
-
 
 const numbers=[25, 53, 87, 32, 53]
 console.log(numbers)
@@ -23,6 +21,3 @@ var news=names
 
 news[1]=125
 console.log(news)
-for (const num of numbers) {
-    console.log(num);
-}
