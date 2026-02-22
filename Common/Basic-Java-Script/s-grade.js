@@ -12,9 +12,7 @@ switch(true){
     case (mark>=60 && mark <=69):
         console.log("B+");
         break;
-    case (mark>=70 && mark <=79):
-        console.log("B");
-        break;
+    
     case (mark>=80 && mark <=100):
         console.log("A+");
         break;
