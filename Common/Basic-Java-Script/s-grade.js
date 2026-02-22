@@ -1,6 +1,6 @@
-let mark=45;
+let mark=47;
 switch(true){
-    case (mark>=33 && mark <=39):
+    case (mark>=33 && mark <=40):
         console.log("D");
         break;
     case (mark>=40 && mark <=49):
